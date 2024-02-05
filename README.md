@@ -1,5 +1,5 @@
 # Thumbnail
-extract first frame of video
+extract first frame from video
 
 
 ## Requirement
