@@ -1,4 +1,4 @@
-# Thumnail
+# Thumbnail
 extract first frame of video
 
 
