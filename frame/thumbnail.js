@@ -43,7 +43,7 @@ async function frame(path, name) {
 
 
 
-app.post('/file', upload.single('fileInput'), async (req, res) => {
+app.post('/file', upload.single('fileInput'), (req, res) => {
     const chunks = [];
     nfile = req.file.filename;
 
