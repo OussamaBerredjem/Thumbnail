@@ -50,7 +50,7 @@ Before you begin, make sure you have the following installed:
 
 <form action="http://localhost:3000/file" method="post" enctype="multipart/form-data">
   <label for="fileInput">Choose File:</label>
-  <input type="file" id="fileInput" name="fileInput" accept="image/*">
+  <input type="file" id="fileInput" name="fileInput" accept="video/*">
   <button type="submit">Upload</button>
 </form>
 
